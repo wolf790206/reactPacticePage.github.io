@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactPacticePage.github.io/monsters-rolodex-functional/build/static/css/main.69710248.css",
+    "main.js": "/reactPacticePage.github.io/monsters-rolodex-functional/build/static/js/main.7163f85c.js",
+    "static/js/787.a4f6a383.chunk.js": "/reactPacticePage.github.io/monsters-rolodex-functional/build/static/js/787.a4f6a383.chunk.js",
+    "index.html": "/reactPacticePage.github.io/monsters-rolodex-functional/build/index.html",
+    "main.69710248.css.map": "/reactPacticePage.github.io/monsters-rolodex-functional/build/static/css/main.69710248.css.map",
+    "main.7163f85c.js.map": "/reactPacticePage.github.io/monsters-rolodex-functional/build/static/js/main.7163f85c.js.map",
+    "787.a4f6a383.chunk.js.map": "/reactPacticePage.github.io/monsters-rolodex-functional/build/static/js/787.a4f6a383.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69710248.css",
+    "static/js/main.7163f85c.js"
+  ]
+}
