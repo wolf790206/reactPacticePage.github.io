@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactPacticePage.github.io/crwn-clothing/build/static/css/main.33fa5bcf.css",
+    "main.js": "/reactPacticePage.github.io/crwn-clothing/build/static/js/main.ed710e3f.js",
+    "static/js/453.d345ee18.chunk.js": "/reactPacticePage.github.io/crwn-clothing/build/static/js/453.d345ee18.chunk.js",
+    "index.html": "/reactPacticePage.github.io/crwn-clothing/build/index.html",
+    "main.33fa5bcf.css.map": "/reactPacticePage.github.io/crwn-clothing/build/static/css/main.33fa5bcf.css.map",
+    "main.ed710e3f.js.map": "/reactPacticePage.github.io/crwn-clothing/build/static/js/main.ed710e3f.js.map",
+    "453.d345ee18.chunk.js.map": "/reactPacticePage.github.io/crwn-clothing/build/static/js/453.d345ee18.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33fa5bcf.css",
+    "static/js/main.ed710e3f.js"
+  ]
+}
