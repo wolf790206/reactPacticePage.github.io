@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ZTMwebpage.github.io/monsters-rolodex-functional/static/css/main.69710248.css",
+    "main.js": "/ZTMwebpage.github.io/monsters-rolodex-functional/static/js/main.2f15fa6e.js",
+    "static/js/787.a4f6a383.chunk.js": "/ZTMwebpage.github.io/monsters-rolodex-functional/static/js/787.a4f6a383.chunk.js",
+    "index.html": "/ZTMwebpage.github.io/monsters-rolodex-functional/index.html",
+    "main.69710248.css.map": "/ZTMwebpage.github.io/monsters-rolodex-functional/static/css/main.69710248.css.map",
+    "main.2f15fa6e.js.map": "/ZTMwebpage.github.io/monsters-rolodex-functional/static/js/main.2f15fa6e.js.map",
+    "787.a4f6a383.chunk.js.map": "/ZTMwebpage.github.io/monsters-rolodex-functional/static/js/787.a4f6a383.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69710248.css",
+    "static/js/main.2f15fa6e.js"
+  ]
+}
