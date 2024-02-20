@@ -3,9 +3,10 @@
 - [monsters-rolodex-functional]
 - [crwn-clothing]
 - [crwn-clothing-router] -React router dom
-- [crwn-clothing-firebase-lesson1] -user auth
+- [crwn-clothing-firebase-lesson1] -creare google user auth
 - [crwn-clothing-firebase-lesson2] -get firestore
 - [crwn-clothing-firebase-lesson3] -build firestore user data
+- [crwn-clothing-firebase-lesson4] -creare email account user
 
 [monsters-rolodex-class]: https://wolf790206.github.io/reactPacticePage.github.io/monsters-rolodex-class/build/index.html
 [monsters-rolodex-functional]:https://wolf790206.github.io/reactPacticePage.github.io/monsters-rolodex-functional/build/index.html
@@ -14,6 +15,8 @@
 [crwn-clothing-firebase-lesson1]:https://wolf790206.github.io/reactPacticePage.github.io/crwn-clothing-firebase-lesson1/build/index.html
 [crwn-clothing-firebase-lesson2]:https://wolf790206.github.io/reactPacticePage.github.io/crwn-clothing-firebase-lesson2/build/index.html
 [crwn-clothing-firebase-lesson3]:https://wolf790206.github.io/reactPacticePage.github.io/crwn-clothing-firebase-lesson3/build/index.html
+[crwn-clothing-firebase-lesson4]:https://wolf790206.github.io/reactPacticePage.github.io/crwn-clothing-firebase-lesson4/build/index.html
+
 
 -------------
 
