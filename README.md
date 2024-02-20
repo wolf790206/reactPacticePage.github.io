@@ -47,6 +47,7 @@
 
 ### Firebase：
 - https://firebase.google.com/docs/auth/web/google-signin?hl=zh-tw#web-version-9_3
+- https://firebase.google.com/docs/reference/js/auth?hl=zh-tw#autherrorcodes
 
 ### async & await：
 - https://vuarnet0318.medium.com/react%E8%8F%9C%E9%9B%9E-day26-%E5%AD%B8%E6%9C%83js%E7%8D%A8%E7%89%B9%E7%9A%84%E7%94%A8%E6%B3%95-%E8%AE%93%E4%BD%A0%E7%9A%84react%E6%9B%B4%E5%84%AA%E9%9B%85-async%E5%8F%8Aawait-7d03e4fe686d
