@@ -7,6 +7,7 @@
 - [crwn-clothing-firebase-lesson2] -get firestore
 - [crwn-clothing-firebase-lesson3] -build firestore user data
 - [crwn-clothing-firebase-lesson4] -creare email account user
+- [crwn-clothing-firebase-lesson5] -sign up component/ form input component/ button component
 
 [monsters-rolodex-class]: https://wolf790206.github.io/reactPacticePage.github.io/monsters-rolodex-class/build/index.html
 [monsters-rolodex-functional]:https://wolf790206.github.io/reactPacticePage.github.io/monsters-rolodex-functional/build/index.html
@@ -16,6 +17,7 @@
 [crwn-clothing-firebase-lesson2]:https://wolf790206.github.io/reactPacticePage.github.io/crwn-clothing-firebase-lesson2/build/index.html
 [crwn-clothing-firebase-lesson3]:https://wolf790206.github.io/reactPacticePage.github.io/crwn-clothing-firebase-lesson3/build/index.html
 [crwn-clothing-firebase-lesson4]:https://wolf790206.github.io/reactPacticePage.github.io/crwn-clothing-firebase-lesson4/build/index.html
+[crwn-clothing-firebase-lesson5]:https://wolf790206.github.io/reactPacticePage.github.io/crwn-clothing-firebase-lesson5/build/index.html
 
 
 -------------
