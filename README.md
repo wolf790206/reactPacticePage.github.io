@@ -2,7 +2,7 @@
 - [monsters-rolodex-class]
 - [monsters-rolodex-functional]
 - [crwn-clothing]
-- [crwn-clothing-router]
+- [crwn-clothing-router] -React router dom
 - [crwn-clothing-firebase-lesson1] -user auth
 - [crwn-clothing-firebase-lesson2] -get firestore
 
