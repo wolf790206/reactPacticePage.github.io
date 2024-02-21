@@ -3,10 +3,10 @@
 - [monsters-rolodex-functional]
 - [crwn-clothing]
 - [crwn-clothing-router] -React router dom
-- [crwn-clothing-firebase-lesson1] -creare google user auth
+- [crwn-clothing-firebase-lesson1] -create google user auth
 - [crwn-clothing-firebase-lesson2] -get firestore
 - [crwn-clothing-firebase-lesson3] -build firestore user data
-- [crwn-clothing-firebase-lesson4] -creare email account user
+- [crwn-clothing-firebase-lesson4] -create email account user
 - [crwn-clothing-firebase-lesson5] -sign up component/ form input component/ button component
 - [crwn-clothing-firebase-lesson6] -sign in component/ sign in auth user with mail and password
 
