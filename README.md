@@ -9,6 +9,7 @@
 - [crwn-clothing-firebase-lesson4] -create email account user
 - [crwn-clothing-firebase-lesson5] -sign up component/ form input component/ button component
 - [crwn-clothing-firebase-lesson6] -sign in component/ sign in auth user with mail and password
+- [crwn-clothing-firebase-lesson7] -create user context/ use in signin/Out and navigation/ firebase add signOut function 
 
 [monsters-rolodex-class]: https://wolf790206.github.io/reactPacticePage.github.io/monsters-rolodex-class/build/index.html
 [monsters-rolodex-functional]:https://wolf790206.github.io/reactPacticePage.github.io/monsters-rolodex-functional/build/index.html
@@ -20,6 +21,7 @@
 [crwn-clothing-firebase-lesson4]:https://wolf790206.github.io/reactPacticePage.github.io/crwn-clothing-firebase-lesson4/build/index.html
 [crwn-clothing-firebase-lesson5]:https://wolf790206.github.io/reactPacticePage.github.io/crwn-clothing-firebase-lesson5/build/index.html
 [crwn-clothing-firebase-lesson6]:https://wolf790206.github.io/reactPacticePage.github.io/crwn-clothing-firebase-lesson6/build/index.html
+[crwn-clothing-firebase-lesson7]:https://wolf790206.github.io/reactPacticePage.github.io/crwn-clothing-firebase-lesson7/build/index.html
 
 
 -------------
