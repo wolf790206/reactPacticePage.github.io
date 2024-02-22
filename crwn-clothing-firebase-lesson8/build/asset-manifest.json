@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/reactPacticePage.github.io/crwn-clothing-firebase-lesson8/build/static/css/main.b15ebc3a.css",
+    "main.js": "/reactPacticePage.github.io/crwn-clothing-firebase-lesson8/build/static/js/main.9e1faa4b.js",
+    "static/js/592.7b3f37fe.chunk.js": "/reactPacticePage.github.io/crwn-clothing-firebase-lesson8/build/static/js/592.7b3f37fe.chunk.js",
+    "index.html": "/reactPacticePage.github.io/crwn-clothing-firebase-lesson8/build/index.html",
+    "static/media/crown.svg": "/reactPacticePage.github.io/crwn-clothing-firebase-lesson8/build/static/media/crown.3a4e2b15908e7a4c25343677d232b7e6.svg",
+    "main.b15ebc3a.css.map": "/reactPacticePage.github.io/crwn-clothing-firebase-lesson8/build/static/css/main.b15ebc3a.css.map",
+    "main.9e1faa4b.js.map": "/reactPacticePage.github.io/crwn-clothing-firebase-lesson8/build/static/js/main.9e1faa4b.js.map",
+    "592.7b3f37fe.chunk.js.map": "/reactPacticePage.github.io/crwn-clothing-firebase-lesson8/build/static/js/592.7b3f37fe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b15ebc3a.css",
+    "static/js/main.9e1faa4b.js"
+  ]
+}
