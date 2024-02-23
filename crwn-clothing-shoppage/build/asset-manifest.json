@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/reactPacticePage.github.io/crwn-clothing-shoppage/build/static/css/main.1286f2b6.css",
+    "main.js": "/reactPacticePage.github.io/crwn-clothing-shoppage/build/static/js/main.02f854f5.js",
+    "static/js/592.7b3f37fe.chunk.js": "/reactPacticePage.github.io/crwn-clothing-shoppage/build/static/js/592.7b3f37fe.chunk.js",
+    "index.html": "/reactPacticePage.github.io/crwn-clothing-shoppage/build/index.html",
+    "static/media/crown.svg": "/reactPacticePage.github.io/crwn-clothing-shoppage/build/static/media/crown.3a4e2b15908e7a4c25343677d232b7e6.svg",
+    "main.1286f2b6.css.map": "/reactPacticePage.github.io/crwn-clothing-shoppage/build/static/css/main.1286f2b6.css.map",
+    "main.02f854f5.js.map": "/reactPacticePage.github.io/crwn-clothing-shoppage/build/static/js/main.02f854f5.js.map",
+    "592.7b3f37fe.chunk.js.map": "/reactPacticePage.github.io/crwn-clothing-shoppage/build/static/js/592.7b3f37fe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1286f2b6.css",
+    "static/js/main.02f854f5.js"
+  ]
+}
