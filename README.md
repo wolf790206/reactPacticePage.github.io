@@ -11,8 +11,9 @@
 - [crwn-clothing-firebase-lesson6] -sign in component/ sign in auth user with mail and password
 - [crwn-clothing-firebase-lesson7] -create user context/ use in signin/Out and navigation/ firebase add signOut function 
 - [crwn-clothing-firebase-lesson8] -use onAuthStateChanged create listener with callback fucn/ updata signin/Out
-- [crwn-clothing-shoppage] -Data into shop page/build products context/build product component
-- [crwn-clothing-cart] -build cart icon/build cart dropdown/add cart-dropdown context
+- [crwn-clothing-shoppage] -Data into shop page/ build products context/ build product component
+- [crwn-clothing-cart] -build cart icon/ build cart dropdown/ add cart-dropdown context
+- [crwn-clothing-cart-item] -updata cart context with cartItems & addItemToCart & cartCount/ build cart item/ updata product-card & cart-icon & cart-dropdown
 
 [monsters-rolodex-class]: https://wolf790206.github.io/reactPacticePage.github.io/monsters-rolodex-class/build/index.html
 [monsters-rolodex-functional]:https://wolf790206.github.io/reactPacticePage.github.io/monsters-rolodex-functional/build/index.html
@@ -28,6 +29,7 @@
 [crwn-clothing-firebase-lesson8]:https://wolf790206.github.io/reactPacticePage.github.io/crwn-clothing-firebase-lesson8/build/index.html
 [crwn-clothing-shoppage]:https://wolf790206.github.io/reactPacticePage.github.io/crwn-clothing-shoppage/build/index.html
 [crwn-clothing-cart]:https://wolf790206.github.io/reactPacticePage.github.io/crwn-clothing-cart/build/index.html
+[crwn-clothing-cart-item]:https://wolf790206.github.io/reactPacticePage.github.io/crwn-clothing-cart-item/build/index.html
 
 
 -------------
