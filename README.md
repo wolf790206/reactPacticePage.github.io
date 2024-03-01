@@ -15,7 +15,7 @@
 - [crwn-clothing-cart] -build cart icon/ build cart dropdown/ add cart-dropdown context
 - [crwn-clothing-cart-item] -update cart context with cartItems & addItemToCart & cartCount/ build cart item/ update product-card & cart-icon & cart-dropdown
 - [crwn-clothing-checkout] -update cart context with removeItemFromCart & clearItemFromCart & cartCount & cartTotal/ build checkout & checkout-item/ updata app & cart-dropdown
-- [crwn-clothing-product-data-upload] -NOT WEB- shop data upload to firestore/ update firebase & productContext & shop-data
+- crwn-clothing-product-data-upload -NOT WEB- shop data upload to firestore/ update firebase & productContext & shop-data
 
 [monsters-rolodex-class]: https://wolf790206.github.io/reactPacticePage.github.io/monsters-rolodex-class/build/index.html
 [monsters-rolodex-functional]:https://wolf790206.github.io/reactPacticePage.github.io/monsters-rolodex-functional/build/index.html
