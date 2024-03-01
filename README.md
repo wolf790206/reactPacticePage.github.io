@@ -10,11 +10,12 @@
 - [crwn-clothing-firebase-lesson5] -sign up component/ form input component/ button component
 - [crwn-clothing-firebase-lesson6] -sign in component/ sign in auth user with mail and password
 - [crwn-clothing-firebase-lesson7] -create user context/ use in signin/Out and navigation/ firebase add signOut function 
-- [crwn-clothing-firebase-lesson8] -use onAuthStateChanged create listener with callback fucn/ updata signin/Out
+- [crwn-clothing-firebase-lesson8] -use onAuthStateChanged create listener with callback fucn/ update signin/Out
 - [crwn-clothing-shoppage] -Data into shop page/ build products context/ build product component
 - [crwn-clothing-cart] -build cart icon/ build cart dropdown/ add cart-dropdown context
-- [crwn-clothing-cart-item] -updata cart context with cartItems & addItemToCart & cartCount/ build cart item/ updata product-card & cart-icon & cart-dropdown
-- [crwn-clothing-checkout] -updata cart context with removeItemFromCart & clearItemFromCart & cartCount & cartTotal/ build checkout & checkout-item/ updata app & cart-dropdown
+- [crwn-clothing-cart-item] -update cart context with cartItems & addItemToCart & cartCount/ build cart item/ update product-card & cart-icon & cart-dropdown
+- [crwn-clothing-checkout] -update cart context with removeItemFromCart & clearItemFromCart & cartCount & cartTotal/ build checkout & checkout-item/ updata app & cart-dropdown
+- [crwn-clothing-product-data-upload] -NOT WEB- shop data upload to firestore/ update firebase & productContext & shop-data
 
 [monsters-rolodex-class]: https://wolf790206.github.io/reactPacticePage.github.io/monsters-rolodex-class/build/index.html
 [monsters-rolodex-functional]:https://wolf790206.github.io/reactPacticePage.github.io/monsters-rolodex-functional/build/index.html
