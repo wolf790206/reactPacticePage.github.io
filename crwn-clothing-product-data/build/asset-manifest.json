@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/reactPacticePage.github.io/crwn-clothing-product-data/build/static/css/main.5bb4bc6b.css",
+    "main.js": "/reactPacticePage.github.io/crwn-clothing-product-data/build/static/js/main.08254d14.js",
+    "static/js/592.7b3f37fe.chunk.js": "/reactPacticePage.github.io/crwn-clothing-product-data/build/static/js/592.7b3f37fe.chunk.js",
+    "static/media/shopping-bag.svg": "/reactPacticePage.github.io/crwn-clothing-product-data/build/static/media/shopping-bag.a688874f6f1507316bdfa420328a4a53.svg",
+    "index.html": "/reactPacticePage.github.io/crwn-clothing-product-data/build/index.html",
+    "static/media/crown.svg": "/reactPacticePage.github.io/crwn-clothing-product-data/build/static/media/crown.3a4e2b15908e7a4c25343677d232b7e6.svg",
+    "main.5bb4bc6b.css.map": "/reactPacticePage.github.io/crwn-clothing-product-data/build/static/css/main.5bb4bc6b.css.map",
+    "main.08254d14.js.map": "/reactPacticePage.github.io/crwn-clothing-product-data/build/static/js/main.08254d14.js.map",
+    "592.7b3f37fe.chunk.js.map": "/reactPacticePage.github.io/crwn-clothing-product-data/build/static/js/592.7b3f37fe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bb4bc6b.css",
+    "static/js/main.08254d14.js"
+  ]
+}
