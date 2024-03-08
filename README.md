@@ -18,7 +18,7 @@
 - crwn-clothing-product-data-upload -NOT WEB- shop data upload to firestore/ update firebase & productContext & shop-data
 - [crwn-clothing-product-data] - update firebase & productContext change to categoryContext & shop-data/ build category-preview
 - [crwn-clothing-nest-router] - build nested router/ update routes>shop & category & category-preview /
-- [crwn-clothing-styled-components] - use styled components update all scss
+- [crwn-clothing-styled-components] - use styled components update all scss/ add redirects within public
   
 [monsters-rolodex-class]: https://wolf790206.github.io/reactPacticePage.github.io/monsters-rolodex-class/build/index.html
 [monsters-rolodex-functional]:https://wolf790206.github.io/reactPacticePage.github.io/monsters-rolodex-functional/build/index.html
