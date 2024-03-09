@@ -80,8 +80,11 @@
 ### styled components：
 - https://styled-components.com/
 
+### useReducer：
+- https://ithelp.ithome.com.tw/articles/10280240
+- https://react.dev/reference/react/useReducer
 
-
+  
 -------------
 
 # 【 How to fork and clone 】
