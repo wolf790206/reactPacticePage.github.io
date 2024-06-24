@@ -1,0 +1,194 @@
+[
+  {
+    "id": 1,
+    "name": "超級豪華",
+    "description": "洋蔥、青椒、香腸片、香腸丁、高崎火腿、杏鮑菇切片、鮮凍鳳梨",
+    "category": "classic",
+    "price": 250,
+    "image": "https://imgur.com/999b61n.jpg"
+  },
+  {
+    "id": 2,
+    "name": "BBQ雞肉",
+    "description": "洋蔥、紅椒、玉米、花枝、蟹味條、雞腿肉片、照燒醬、BBQ醬、海苔粉、美奶滋、杏鮑菇切片",
+    "category": "classic",
+    "price": 299,
+    "image": "https://imgur.com/B7I3R3H.jpg"
+  },
+  {
+    "id": 3,
+    "name": "田園鮮蔬",
+    "description": "紅椒、玉米、吉心醬、披薩醬、菠菜、巧達起司丁、杏鮑菇切片、切半小蕃茄、鮮凍鳳梨",
+    "category": "classic",
+    "price": 269,
+    "image": "https://imgur.com/9dQbuHS.jpg"
+  },
+  {
+    "id": 4,
+    "name": "干貝海鮮",
+    "description": "洋蔥、紅椒、蟹味條、壽喜牛肉、披薩醬、照燒醬、菠菜、拌油蒜片、杏鮑菇切片、干貝、大蝦仁",
+    "category": "classic",
+    "price": 299,
+    "image": "https://imgur.com/x4cNuk5.jpg"
+  },
+  {
+    "id": 5,
+    "name": "瑪格麗特",
+    "description": "香腸片、切半小蕃茄",
+    "category": "classic",
+    "price": 249,
+    "image": "https://imgur.com/fI9LQ3K.png.jpg"
+  },
+  {
+    "id": 6,
+    "name": "黃金夏威夷",
+    "description": "巧達起司丁、莫札瑞拉起司條、高崎火腿、鮮凍鳳梨",
+    "category": "classic",
+    "price": 249,
+    "image": "https://imgur.com/WGpFutu.jpg"
+  },
+  {
+    "id": 7,
+    "name": "黃金干貝海鮮",
+    "description": "洋蔥、蟹味條、菠菜、巧達起司丁、莫札瑞拉起司條、干貝、大蝦仁",
+    "category": "classic",
+    "price": 299,
+    "image": "https://imgur.com/hcbVXxg.jpg"
+  },
+  {
+    "id": 8,
+    "name": "黃金超級豪華",
+    "description": "洋蔥、青椒、香腸片、香腸丁、巧達起司丁、莫札瑞拉起司條、高崎火腿、杏鮑菇切片",
+    "category": "classic",
+    "price": 249,
+    "image": "https://imgur.com/hIYYEE5.jpg"
+  },
+  {
+    "id": 9,
+    "name": "黃金龍蝦沙拉",
+    "description": "蟹味條、日式龍蝦沙拉、美奶滋、巧達起司丁、莫札瑞拉起司條、大蝦仁、鮮凍鳳梨",
+    "category": "classic",
+    "price": 399,
+    "image": "https://imgur.com/PbKM8UF.jpg"
+  },
+  {
+    "id": 10,
+    "name": "黃金月見四喜",
+    "description": "洋蔥、青椒、蟹味條、日式龍蝦沙拉、香腸片、香腸丁、披薩醬、菠菜、美奶滋、巧達起司丁、莫札瑞拉起司條、高崎火腿、杏鮑菇切片、干貝、大蝦仁、鮮凍鳳梨",
+    "category": "classic",
+    "price": 339,
+    "image": "https://imgur.com/X72cSlG.jpg"
+  },
+  {
+    "id": 11,
+    "name": "極致蒜香壽喜牛",
+    "description": "洋蔥、紅椒、壽喜牛肉、拌油蒜片、杏鮑菇切片",
+    "category": "new",
+    "price": 350,
+    "image": "https://imgur.com/BGw0LDn.jpg"
+  },
+  {
+    "id": 12,
+    "name": "極致豪華",
+    "description": "洋蔥、青椒、玉米、墨西哥辣椒、香腸片、香腸丁、雞腿肉片、BBQ醬、拌油蒜片、高崎火腿、杏鮑菇切片、維也納香腸",
+    "category": "new",
+    "price": 399,
+    "image": "https://imgur.com/gZUUHF1.jpg"
+  },
+  {
+    "id": 13,
+    "name": "極致干貝海鮮",
+    "description": "洋蔥、蟹味條、菠菜、干貝、大蝦仁",
+    "category": "new",
+    "price": 369,
+    "image": "https://imgur.com/Yq6LOFI.jpg"
+  },
+  {
+    "id": 14,
+    "name": "金鑽龍蝦沙拉",
+    "description": "蟹味條、日式龍蝦沙拉、美奶滋、大蝦仁、鮮凍鳳梨",
+    "category": "new",
+    "price": 389,
+    "image": "https://imgur.com/8IPDAFl.jpg"
+  },
+  {
+    "id": 15,
+    "name": "極致白醬干貝海鮮",
+    "description": "洋蔥、蟹味條、菠菜、干貝、大蝦仁",
+    "category": "new",
+    "price": 450,
+    "image": "https://imgur.com/klfK1Bd.jpg"
+  },
+  {
+    "id": 16,
+    "name": "極致四喜",
+    "description": "洋蔥、青椒、紅椒、玉米、墨西哥辣椒、香腸片、香腸丁、雞腿肉片、壽喜牛肉、BBQ醬、照燒醬、披薩醬、拌油蒜片、高崎火腿、杏鮑菇切片、維也納香腸、鮮凍鳳梨",
+    "category": "new",
+    "price": 499,
+    "image": "https://imgur.com/oglQmdd.jpg"
+  },
+  {
+    "id": 17,
+    "name": "炭燒豬五花",
+    "description": "熟製豬五花、青花菜、紅椒",
+    "category": "new",
+    "price": 399,
+    "image": "https://imgur.com/iwCOU3q.jpg"
+  },
+  {
+    "id": 18,
+    "name": "金鑽夏威夷",
+    "description": "高崎火腿、鮮凍鳳梨",
+    "category": "new",
+    "price": 299,
+    "image": "https://imgur.com/AHCaT2n.jpg"
+  },
+  {
+    "id": 19,
+    "name": "小農田園鮮蔬",
+    "description": "紅椒、玉米、菠菜、巧達起司丁、杏鮑菇切片、切半小蕃茄、鮮凍鳳梨",
+    "category": "new",
+    "price": 279,
+    "image": "https://imgur.com/HsAvS0L.jpg"
+  },
+  {
+    "id": 20,
+    "name": "超級墨西哥",
+    "description": "洋蔥、墨西哥辣椒、香腸片、香腸丁",
+    "category": "new",
+    "price": 350,
+    "image": "https://imgur.com/J9FqClU.jpg"
+  },
+  {
+    "id": 21,
+    "name": "薯條",
+    "description": "新鮮馬鈴薯",
+    "category": "non-staple-food",
+    "price": 50,
+    "image": "https://imgur.com/tdvoxJL.jpg"
+  },
+  {
+    "id": 22,
+    "name": "沙拉",
+    "description": "新鮮時蔬",
+    "category": "non-staple-food",
+    "price": 40,
+    "image": "https://imgur.com/D05iwgj.jpg"
+  },
+  {
+    "id": 23,
+    "name": "可樂",
+    "description": "飲料",
+    "category": "non-staple-food",
+    "price": 35,
+    "image": "https://imgur.com/d0CGiG3.jpg"
+  },
+  {
+    "id": 24,
+    "name": "炸雞",
+    "description": "新嫩雞肉",
+    "category": "non-staple-food",
+    "price": 60,
+    "image": "https://imgur.com/6TGzaHq.jpg"
+  }
+]

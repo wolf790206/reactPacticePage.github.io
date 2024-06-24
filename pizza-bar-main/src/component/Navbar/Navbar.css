@@ -1,0 +1,97 @@
+.navbar{
+  width: 80%;
+  position: fixed;
+  top: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  background-color: white;
+  z-index: 1;
+}
+
+.navbar .logo{
+  width: 150px;
+}
+
+.navbar-menu{
+  display: flex;
+  list-style: none;
+  gap: 20px;
+  color: #BC2626;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+.navbar-right{
+  display: flex;
+  align-items: center;
+  gap: 40px;
+}
+
+.navbar-cart img{
+  width: 40px;
+}
+
+.navbar button{
+  background-color: #BC2626;
+  color: white;
+  font-size: 16px;
+  border: none;
+  padding: 10px 30px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.navbar button:hover{
+  background-color: #800000;
+}
+
+.navbar-menu .active{
+  padding-bottom: 2px;
+  border-bottom: 2px solid #BC2626;
+}
+
+.navbar-cart{
+  position: relative;
+}
+
+.navbar-cart .dot{
+  position: absolute;
+  min-height: 10px;
+  min-width: 10px;
+  background-color: red;
+  border-radius: 5px;
+  top: -8px;
+  right: -8px;
+}
+
+@media (max-width: 768px) {
+  .navbar .logo{
+    width: 140px;
+  }
+
+  .navbar-menu{
+    gap: 20px;
+    font-size: 17px;
+  }
+
+  .navbar-right{
+    gap: 30px;
+  }
+
+  .navbar-right img{
+    width: 25px;
+  }
+
+  .navbar button{
+    padding: 8px 20px;
+  } 
+}
+
+@media (max-width: 480px) {
+  .navbar-menu {
+    display: none; 
+  }
+}
